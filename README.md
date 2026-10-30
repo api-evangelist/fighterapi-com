@@ -64,5 +64,130 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-fighterapi-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://fighterapi.com/
+FighterAPI provides a comprehensive fight data API covering UFC, PFL, and Bellator events. It offers detailed fight statistics, round‑by‑round data, fighter profiles, and sportsbook odds dating back to 2000. Users can access the data via REST endpoints or the Model Context Protocol (MCP), with a free tier of 500 credits per month and paid plans for higher usage. The service is operated by OWSH Unlimited LLC and includes documentation, pricing, support, and open source tools.
+
+**Areas:** Sports · MMA · Data · API · Odds
+
+## fighterapi-com on APIs.io
+
+Everything profiled for fighterapi-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/fighterapi-com/](https://apis.io/providers/fighterapi-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (4)
+
+- [fighterapi-com Basic lookup API](https://apis.io/apis/fighterapi-com/fighterapi-com-basic-lookup-api/) — The Basic lookup API from fighterapi-com — 3 operation(s) for basic lookup.
+- [fighterapi-com Static reference API](https://apis.io/apis/fighterapi-com/fighterapi-com-static-reference-api/) — The Static reference API from fighterapi-com — 2 operation(s) for static reference.
+- [fighterapi-com Stats + aggregation API](https://apis.io/apis/fighterapi-com/fighterapi-com-stats-aggregation-api/) — The Stats + aggregation API from fighterapi-com — 5 operation(s) for stats + aggregation.
+- [fighterapi-com Time Series API](https://apis.io/apis/fighterapi-com/fighterapi-com-time-series-api/) — The Time-series API from fighterapi-com — 1 operation(s) for time-series.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Fighterapi Com Agentic Access](https://apis.io/agentic-access/fighterapi-com/fighterapi-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [fighterapi-com API Rules](https://apis.io/rules/fighterapi-com/fighterapi-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Fighterapi Com Authentication](https://apis.io/security/fighterapi-com/fighterapi-com-authentication/)
+- [Fighterapi Com Domain Security](https://apis.io/security/fighterapi-com/fighterapi-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Fighterapi Com Scopes](https://apis.io/scopes/fighterapi-com/fighterapi-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Fighterapi Com Plans Pricing](https://apis.io/plans/fighterapi-com/fighterapi-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Fighterapi Com Rate Limits](https://apis.io/rate-limits/fighterapi-com/fighterapi-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://fighterapi.com/)
+- [Documentation](https://fighterapi.com/docs)
+- [Getting started](https://fighterapi.com/docs)
+- [API reference](https://fighterapi.com/docs)
+- [Pricing](https://fighterapi.com/pricing)
+- [Sign up](https://fighterapi.com/signup)
+- [Support](https://fighterapi.com/support)
+- [Changelog](https://fighterapi.com/changelog)
+- [Terms of service](https://fighterapi.com/terms)
+- [Privacy policy](https://fighterapi.com/privacy)
+- [GitHub](https://github.com/noahowsh)
+- [Status](https://fighterapi.com/status)
+
+## API Evangelist rating
+
+**Kin Score 66.5** — exemplar · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 48.4 |
+| Contract governance | 79.1 |
+| Operational transparency | 55.8 |
+| Developer ergonomics | 68.3 |
+| Access clarity | 73.2 |
+
+**Agent readiness 38.6** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | documented (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 34.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/fighterapi-com/](https://apis.io/providers/fighterapi-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for fighterapi-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/fighterapi-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
